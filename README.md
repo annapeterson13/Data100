@@ -1,3 +1,4 @@
 # Anna Peterson
-## ![] (IMG_7701.JPG)
+## I hope I like it
+![] (IMG_7701.JPG)
 This is my first time programming
