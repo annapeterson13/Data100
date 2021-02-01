@@ -1,5 +1,5 @@
 # Anna Peterson
 ## This is my first time programming
-![One of my favorite songs] 
+Me and my friends at Gravelly Point 
 ![](IMG_7701.JPG)
 I hope I like it
