@@ -3,3 +3,5 @@
 Me and my friends at Gravelly Point 
 ![](IMG_7701.JPG)
 I hope I like it
+## Informal In Class Exercises. 
+[Getting Started Exercise](...)
