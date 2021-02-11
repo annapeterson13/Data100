@@ -1,4 +1,4 @@
-# Anna Peterson
+# Anna Peterson ✰
 ## This is my first time programming
 I hope I like it!
 Here are me and my friends at Gravelly Point:)
