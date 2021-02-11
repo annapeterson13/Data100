@@ -4,6 +4,6 @@ I hope I like it!
 Here are me and my friends at Gravelly Point:)
 ![](IMG_7701.JPG)
 ## Informal In Class Exercises. 
-[Getting Started Exercise](https://annapeterson13.github.io/First-Repository/GettingStarted.html)  
+[Getting Started Exercise](GettingStarted.md)  
 [Extra Credit](ExtraCredit.md)
 
