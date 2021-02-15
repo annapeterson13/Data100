@@ -5,5 +5,5 @@ Here are me and my friends at Gravelly Point:)
 ![](IMG_7701.JPG)
 ## Informal In Class Exercises. 
 [Getting Started Exercise](GettingStarted.md)  
-[Extra Credit](ExtraCredit.md)
+[Extra Credit](ExtraCredit.md)          
 [Project 1](CostaRica.png)
