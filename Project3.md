@@ -1,4 +1,3 @@
-## Project 3 Deliverable
 
 # Below is a histogram of the population count of each administrative region in Costa Rica, which I took the logarithm of.
 
