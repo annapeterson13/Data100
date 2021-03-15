@@ -10,7 +10,7 @@ Here are me and my friends at Gravelly Point:)
 ## Projects
 [Project 1](CostaRica.png) 
 [Project 2](cri_pop20.png)
-[Project 3]()
+[Project 3](Project3.md)
 
 ## Reading Reflections
 [Reading Reflection 1](ReadingReflection.md) 
