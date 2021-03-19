@@ -19,3 +19,4 @@ Below is the same overlapping histogram plot, but with different variables: Topo
 Here I've created a Regression Line model comparing topography in Costa Rica and the population density of each second administrative region. The R-Squared value is 0.0, which essentially means there is no relationship between topography and population in Costa Rica. To me, this is surprising because Costa Rica is a very mountainous terrain and I would expect more people at lower elevations and fewer people at high elevations. But, I suppose that because Costa Rica is *so* mountainous that there is no room for preference, and people are relatively equally scattered.
 
 ![](Project3RegressionModelPlot1.png)
+![](Summary1Project3.png)
