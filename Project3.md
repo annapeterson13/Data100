@@ -22,9 +22,11 @@ Here I've created a Regression Line model comparing topography in Costa Rica and
 ![](Summary1Project3.png)
 
 Now I add the variables Urban Cover and Bare Cover to the reggression model, and still obtain an R-Squared value of 0. This likely for the same reasons.
+
 ![](Project3RegressionPlot2.png)
 ![](Summary2Project3.png)
 
 Finally, I've added each variable from the lulc file and plotted the regression line. The R-Squared value is now .8, which is a much higher coorelation now that we've added new factors/varibles to the mix. 
+
 ![](Project3RegressionPlot3.png)
 ![](Summary3Project3.png)
