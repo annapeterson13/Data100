@@ -18,4 +18,4 @@ Here are me and my friends at Gravelly Point:)
 
 ## Extra Credit
 [Slice of Data Science Write Up](ExtraCredit.md)
-[Stretch Goal 1 HDX](CostaRica.png)
+[Project 1 Stretch Goal 1](CostaRica.png)
