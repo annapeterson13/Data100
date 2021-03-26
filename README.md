@@ -15,6 +15,7 @@ Here are me and my friends at Gravelly Point:)
 ## Reading Reflections
 [Reading Reflection 1](ReadingReflection.md) 
 [Reading Reflection 2](ReadingReflection2.md)
+[Reading Reflection 3](ReadingReflection3.md)
 
 ## Extra Credit
 [Slice of Data Science Write Up](ExtraCredit.md)
