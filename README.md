@@ -1,8 +1,6 @@
 # Anna Peterson ✰
-## This is my first time programming
-I hope I like it!
-Here are me and my friends at Gravelly Point:)
-![](IMG_7701.JPG)
+Welcome to my GitHub, where I use R programming language to study the population of the developing country Costa Rica.
+![](GradMe.JPG)
 
 ## Informal In Class Exercises. 
 [Getting Started Exercise](GettingStarted.md)  
