@@ -9,7 +9,7 @@ Welcome to my GitHub, where I use R programming language to study the population
 [Project 1](CostaRica.png) 
 [Project 2](CostaRicaProject2.png)
 [Project 3](Project3.md)
-[Project4](Project4.md)
+[Project 4](Project4.md)
 
 ## Reading Reflections
 [Reading Reflection 1](ReadingReflection.md) 
