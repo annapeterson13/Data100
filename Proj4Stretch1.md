@@ -1,4 +1,4 @@
-## Project 4 Stretch Goal 1
+### Project 4 Stretch Goal 1
 
 # Zoom-in of San José's (the capital of Costa Rica) population density
 ![](SJPop.png)
