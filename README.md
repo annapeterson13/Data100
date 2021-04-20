@@ -19,4 +19,4 @@ Welcome to my GitHub, where I use R programming language to study the population
 ## Extra Credit
 [Slice of Data Science Write Up](ExtraCredit.md)
 [Project 1 Stretch Goal 1](CostaRica.png)
-[Project 4 Stretch Goal 1](Proj4Stretch1.png)
+[Project 4 Stretch Goal 1](Proj4Stretch1.md)
