@@ -11,3 +11,6 @@
 
 ## 3D plotted version
 ![](3DPlotSJ.png)
+
+## Map view of Costa Rica's second-level administrative regions
+![](CRIMapView.png)
