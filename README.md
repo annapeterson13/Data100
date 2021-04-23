@@ -15,6 +15,7 @@ Welcome to my GitHub, where I use R programming language to study the population
 [Reading Reflection 1](ReadingReflection.md)   
 [Reading Reflection 2](ReadingReflection2.md)  
 [Reading Reflection 3](ReadingReflection3.md)  
+[Reading Reflection 4](ReadingReflection4.md)  
 
 ## Extra Credit
 [Slice of Data Science Write Up](ExtraCredit.md)  
