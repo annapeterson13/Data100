@@ -11,6 +11,7 @@ Welcome to my GitHub, where I use R programming language to study the population
 [Project 3](Project3.md)    
 [Project 4](Project4.md)  
 [Project 5](Project5.png)
+[Final Project](Final.md)
 
 ## Reading Reflections
 [Reading Reflection 1](ReadingReflection.md)   
