@@ -1,5 +1,5 @@
 # Anna Peterson ✰
-Welcome to my GitHub, where I use R programming language to study the population of the developing country Costa Rica.
+Welcome to my Data100 repository, where I use RStudio to study the population of the developing country Costa Rica.
 ![](GradMe.JPG)
 
 ## Informal In Class Exercises  
