@@ -1,6 +1,6 @@
 # Anna Peterson ✰
 Welcome to my Data100 repository, where I use RStudio to study the population of the developing country Costa Rica.
-![](GradMe.JPG)
+[](GradMe.JPG)
 
 ## Informal In Class Exercises  
 [Getting Started Exercise](GettingStarted.md)  
